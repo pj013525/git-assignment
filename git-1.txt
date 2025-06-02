@@ -1,3 +1,0 @@
-This is git assignment of DEvOps course
-This is line-2 in this file 
-This line is adding to see git fetch command
